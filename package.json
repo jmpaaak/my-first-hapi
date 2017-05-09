@@ -1,0 +1,16 @@
+{
+  "name": "my-first-hapi",
+  "version": "1.0.0",
+  "description": "My first Hapi.js server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jongmin Park",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.7",
+    "hapi": "^11.1.4",
+    "joi": "7.x.x"
+  }
+}
